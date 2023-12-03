@@ -1,4 +1,4 @@
-# todo-app
+# todo-app using vueJs 3
 
 ## Project setup
 ```
